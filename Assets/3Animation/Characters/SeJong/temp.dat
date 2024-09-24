@@ -1,0 +1,644 @@
+<!-- Microdata markup added by Google Structured Data Markup Helper. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Crash Bandicoot 3D Model</title>
+<meta name="keywords" content=", Crash Bandicoot, Download, 3D Model">
+<meta name="description" content="Crash Bandicoot 3D Model Free Download. 1,550 Polygons. - Released on: 2023-09-15">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8SCPMBXXK7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8SCPMBXXK7');
+</script>
+
+<style>
+body {
+	background-color: #fff;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+	color: #000;
+	}
+input, select, textarea {
+	font: 18px/22px Lucida Grande, Lucida, Verdana, sans-serif;
+	}
+input.submit {
+	background: lightblue;
+	border: 3px solid #215968;
+	border-radius: 10px;
+	color: #215968;
+	font: bold 16px sans-serif;
+	width: 150px;
+	height: 30px;
+	transition: 0.4s all ease;
+	}
+input.submit:hover {
+	background: #215968;
+	border: 3px solid #215968;
+	border-radius: 5px;
+	color: #dbeef4;
+	}
+.submitLO {
+	background: #FA8072;
+	border: 3px solid #8B0000;
+	border-radius: 10px;
+	color: #8B0000;
+	font: bold 16px sans-serif;
+	width: 120px;
+	height: 30px;
+	cursor: pointer;
+	transition: 0.4s all ease;
+	}
+.submitLO:hover {
+	background: #DC143C;
+	border-radius: 5px;
+	color: #FFA07A;
+	}
+input.submit3 {
+    border-color:#ccc;
+    border-radius:3px;
+    border-width:1px;
+    font-size:18px;
+    height: 30px;
+    transition:0.5s all ease;
+    }
+input.submit3:hover {
+    border-color:#102045;
+    }
+input.submit3:focus {
+    border-color:#102045;
+    background: #FFFACD;
+    }
+.submit2 {
+	background: #1f9e45;
+	border: 2px solid #0c5923;
+	border-radius: 15px;
+	color: #DAF7A6;
+	font: bold 14px Lucida Grande, Lucida, Verdana, sans-serif;
+	width: 400px;
+	height: 34px;
+	transition: 0.2s all ease;
+	margin-bottom: 2px;
+	cursor: pointer;
+	margin-top: 3px;
+	}
+.submit2:hover {
+	background: #DAF7A6;
+	border: 2px solid #d04040;
+	border-radius: 8px;
+	color: #1f9e45;
+	}
+img.img11 {
+	border: 3px solid #ffffff;
+	border-radius: 6px;
+	}
+img.img11:hover {
+	border: 3px solid #ffff90;
+	}
+img.img22 {
+	border-radius: 3px;
+	}
+img.img33 {
+	border: 5px solid #dbeef4;
+	}
+img.img33:hover {
+	border: 5px solid #ffff90;
+	}
+img.img34 {
+	border: 2px solid #80c2d9;
+	cursor: pointer;
+	}
+img.img34:hover {
+	border: 2px solid #ffff90;
+	}
+img.img35 {
+	opacity: 0.4;
+	}
+img.img35:hover {
+	opacity: 1.0;
+	}
+a:hover {color: #ff0000;}
+.a01 {
+	text-decoration: none;
+	color: #215968;
+	}
+.a02 {
+	text-decoration: none;
+	color: #215968;
+	text-decoration-line: none;
+	}
+.a02:hover {text-decoration-line: underline;}
+.a03 {color: #215968;}
+.a03:hover {color: #ff0000;}
+.a04:hover {color: #ff0000;}
+.a05:hover {color: #ffff00;}
+
+
+ /* The Modal (background) */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+}
+.modal-content {
+    background-color: #E0FFFF;
+    margin: 8% auto;
+    padding: 20px;
+    border: 5px solid #00BFFF;
+    width: 430px;
+}
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Define a CSS animation named "blink" */ 
+    @keyframes blink { 
+        0%, 
+        100% { 
+            background-color: #dbeef4; 
+        }
+        50% { 
+            background-color: #F4F3CF; 
+        } 
+    } 
+    /* Apply the "blink" animation to elements with class "blinking-effect" */ 
+    .blinking-effect { 
+        animation: blink 3s linear infinite; 
+    }
+</style>
+
+
+<script type="text/javascript" src="css/jquery.js"></script>
+
+</head>
+<body style="background-color: #dbeef4;" onload="OnPageLoad();">
+<center itemscope itemtype="http://schema.org/Product">
+
+
+<div id="myModal" class="modal">
+	<div class="modal-content">
+		<span class="close" onclick="modal.style.display = 'none';">&times;</span>
+	<p>Please login to continue and enjoy all features for Free!<br>
+	<font color='red'></font>
+	<br>
+	<form method="post"><table>
+	<tr><td> <b>Username:</b> <font color='grey'>(or Email)</font> </td><td width="10"></td> <td> <input type="text" name="usernameA"> </td></tr>
+	<tr><td> <b>Password:</b> </td><td width="10"></td> <td> <input type="password" name="passwordA"> </td></tr>
+	<tr><td>
+	<input type="hidden" name="command1" value="login">
+			<input type="hidden" name="view" value="Crash_Bandicoot-3d-model__MY9VPWSSPFEMSAX5CE4QCGXL3">
+		</td></tr>
+	</table><br>
+	<input type="submit" class="submit" style="width: 120px;" value="Login" /> 
+	</form><br>
+	Do not have an account? <aaa style="cursor: pointer;" onclick="modal.style.display = 'none'; modalReg.style.display = 'block';"><font color='blue'>Create a New account for Free</font></aaa></p>
+	</div>
+</div>
+<div id="myModal-Register" class="modal">
+	<div class="modal-content">
+		<span class="close" onclick="modalReg.style.display = 'none';">&times;</span>
+	<p>Register a New Account, and Enjoy all features <u><b>for Free</b></u> !<br>
+	<font color='red'></font>
+	<br>
+	<form method="post"><table>
+	<tr><td> <b>Username:</b> </td><td width="10"></td> <td> <input type="text" name="username" id="username"> </td></tr>
+	<tr><td> <b>Email:</b> </td><td width="10"></td> <td> <input type="text" name="email" id="email"> </td></tr>
+	<tr><td> &nbsp; </td></tr>
+	<tr><td> <b>Password:</b> </td><td width="10"></td> <td> <input type="password" name="password" id="password"> </td></tr>
+	<tr><td> <b>Confirm Password:</b> </td><td width="10"></td> <td> <input type="password" name="password2" id="password2"> </td></tr>
+	<tr><td>
+	<input type="hidden" name="command1" value="register">
+			<input type="hidden" name="view" value="Crash_Bandicoot-3d-model__MY9VPWSSPFEMSAX5CE4QCGXL3">
+		</td></tr>
+	</table><br>
+	<input type="submit" class="submit" value="Register" /> 
+	</form><br>
+	Already have an account? <aaa style="cursor: pointer;" onclick="modalReg.style.display = 'none'; modal.style.display = 'block';"><font color='blue'>Click here to Login</font></aaa></p>
+	</div>
+</div>
+<script type="text/javascript">
+var modal = document.getElementById('myModal');
+var modalReg = document.getElementById('myModal-Register');
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) { modal.style.display = "none"; }
+    if (event.target == modalReg) { modalReg.style.display = "none"; }
+}
+</script>
+
+        
+        <span itemprop="brand" itemscope itemtype="http://schema.org/Brand">
+    <meta itemprop="name" content="RigModels">
+    </span>
+
+<table style="width: 480px;"><tr>
+    <td width="15"></td>
+    <td width="140"><a href="index.php"><img itemprop="logo" src="img/Logo.jpg" alt="Logo" title="Home" width="138" height="40.1"></a></td>
+        <td width="183" align="center">
+    </td>
+            
+    <td width="132" style="text-align: right;">
+                <table style="border-collapse: collapse;">
+            <tr><td style="padding: 0;">
+                <input type="submit" class="submit" style="font-size:20px; width: 130px; height: 40px; border-radius: 40px 40px 0px 0px; border-width: 3px 3px 1px 3px" value="Login" onclick="modal.style.display = 'block';" /> <br>
+            </td></tr>
+            <tr><td style="padding: 0;">
+                <input type="submit" class="submit" style="font-size:20px; width: 130px; height: 40px; border-radius: 0px 0px 30px 30px; border-width: 1px 3px 3px 3px;" value="Register" onclick="modalReg.style.display = 'block';" />
+            </td></tr>
+        </table>
+        
+            </td>
+    <td width="10"></td>
+</tr></table>
+
+<script>
+    var PageLoadSec = 0;
+function OnPageLoad() {
+    setInterval(function(){PageLoadSec++}, 1000);
+}
+</script>
+
+<table width="480px;">
+<tr>
+    <td colspan="3" width="100%">
+    <form id="searchform" style="display: inline-block; margin: 0; width:100%; min-width: 220px; max-width:600px;" action="index.php">
+        <center>
+        <input type="hidden" name="manualsearch" value="1">
+            <table border="0" cellpadding="0" cellspacing="0" style="width:80%;">
+                <tr><td colspan="2"> <center><font size='5' color='#215968'>Search 3D Models</font></center> </td></tr>
+                <tr>
+                    <td><input type="text" style='width:100%' name="searchkeyword" class="submit3" value=""></td>
+                    <td width="34" style="text-align: right;"><img id="searchimgbtc" src="img/search32.png" alt="Search" style="cursor: pointer;" width="30" onclick="document.getElementById('searchform').submit();" onmouseover="document.getElementById('searchimgbtc').src='img/search32-2.png';" onmouseout="document.getElementById('searchimgbtc').src='img/search32.png';"></td>
+                </tr>
+            </table>
+        </center>
+    </form>
+    </td>
+</tr>
+<tr>
+<td colspan="3" width="100%" valign="top">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9438898752438795" crossorigin="anonymous"></script>
+        <div id="AdsenseBanner" style="width: 100%; height: 320px; display: block; background-color: transparent; border: 1px solid #ccc; background: repeating-linear-gradient(-45deg, #ccc, #ccc 1px, transparent 1px, transparent 20px); position: fixed; left: 0px; bottom: 0px; margin: 0px; padding: 0px; z-index:999;">
+            <span id="CloseAdCap" style="position:absolute; right:0px; z-index:2000; background-color: #999; cursor: pointer; color: #fff; font-size: 16px; padding: 2px 5px 2px 5px;" onclick="if(PageLoadSec >= 1) document.getElementById('AdsenseBanner').style.display='none';">Close (<b>X</b>)</span>
+            <center>
+            <!-- Mobile Front -->
+            <ins class="adsbygoogle"
+                 style="display:inline-block;width:480px;height:320px"
+                 data-ad-client="ca-pub-9438898752438795"
+                 data-ad-slot="3837130004"></ins>
+            <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+            </center>
+        </div>
+        
+
+
+
+</tr><tr valign="top">
+
+<td width="20"></td>
+
+<td colspan="2" width="95%" valign="top">
+<center>
+
+
+<div style="width: 480px; background-color: #215968;" name="GoToResultBox" id="GoToResultBox" >
+<table cellspacing="0">
+
+<tr><td title="Crash Bandicoot"> &nbsp; <a href="model.php?view=Crash_Bandicoot_3d_model__MY9VPWSSPFEMSAX5CE4QCGXL3" style="text-decoration: none;"><font itemprop="name" color='#fff' size='5'><b>Crash Bandicoot</b> 3D   Model</font></a> </td>
+<td width="90" title="Model Published on 2023-09-15"><font content="2023-09-15" color='grey'>2023-09-15</font></td></tr>
+<tr><td colspan="2">
+<div style="margin-bottom: 3px; text-align: center; position: relative; float: left;">
+<img id="PreviewImg" src="3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash-Bandicoot.jpg" alt="Crash Bandicoot 3d model" title="Crash Bandicoot 3D Model" width="475" height="317"></img>
+<iframe id="PreviewFrame" src="about:blank" width="475" height="317" scrolling="no" frameborder="0" style="display: none;"></iframe>
+<div id="loadinggif" style="position: absolute; top: 40%; width: 100%; display: none;">
+    <center><img src="img/loadingl.gif" title="Loading Image" width="100" height="100"></center>
+</div>
+</div>
+<div id="ModelViewBox" style="background-color: lightblue; padding-left: 3px; padding-top: 2px; padding-bottom: 2px; width: 472px;">
+<img src="3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Thumb_Crash-Bandicoot.jpg" class="img34" alt="Crash Bandicoot Crash-Bandicoot" title="Crash-Bandicoot" width="150" height="100" onclick="document.getElementById('PreviewImg').style.display='block'; document.getElementById('PreviewFrame').style.display='none'; document.getElementById('loadinggif').style.display='block'; document.getElementById('PreviewImg').src='3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Thumb_Crash-Bandicoot.jpg'; document.getElementById('PreviewImg').onload = function () { document.getElementById('PreviewImg').src='3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash-Bandicoot.jpg'; document.getElementById('PreviewImg').onload = function () {document.getElementById('loadinggif').style.display='none';}; };"></img>
+<img src="3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Thumb_Crash Bandicoot-2.jpg" class="img34" alt="Crash Bandicoot Crash Bandicoot-2" title="Crash Bandicoot-2" width="150" height="100" onclick="document.getElementById('PreviewImg').style.display='block'; document.getElementById('PreviewFrame').style.display='none'; document.getElementById('loadinggif').style.display='block'; document.getElementById('PreviewImg').src='3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Thumb_Crash Bandicoot-2.jpg'; document.getElementById('PreviewImg').onload = function () { document.getElementById('PreviewImg').src='3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash Bandicoot-2.jpg'; document.getElementById('PreviewImg').onload = function () {document.getElementById('loadinggif').style.display='none';}; };"></img>
+
+<img src="img/360.jpg" class="img34" alt="360" title="360 Preview" width="150" height="100" onclick="document.getElementById('PreviewImg').style.display='none'; document.getElementById('PreviewFrame').style.display='block'; if(document.getElementById('PreviewFrame').src=='about:blank'){document.getElementById('PreviewFrame').src='3d.php?view=MY9VPWSSPFEMSAX5CE4QCGXL3&ee=&mobileuser=1';};  document.getElementById('PreviewFrame').scrollIntoView({behavior: 'smooth'});"></img>
+</div>
+
+<iframe id="invisibleframe" style="display:none;"></iframe>
+</td></tr>
+
+<span itemprop="offers" itemscope itemtype="https://schema.org/Offer">
+<meta itemprop="price" content="0">
+<meta itemprop="priceValidUntil" content="2025-07-20">
+<meta itemprop="priceCurrency" content="USD">
+<meta itemprop="url" content="https://rigmodels.com/model.php?view=Crash_Bandicoot_3d_model__MY9VPWSSPFEMSAX5CE4QCGXL3">
+<meta itemprop="availability" content="InStock">
+<meta itemprop="shippingDetails" content="https://schema.org/shippingDetails">
+<meta itemprop="hasMerchantReturnPolicy" content="https://schema.org/ProductReturnPolicy">
+</span>
+<span itemprop="sku" content="MY9VPWSSPFEMSAX5CE4QCGXL3" />
+<span itemprop="mpn" content="947167" />
+
+<span itemprop="review" itemscope itemtype="http://schema.org/Review" >
+    <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating" >
+        <meta itemprop="ratingValue" content="4.5">
+        <meta itemprop="bestRating" content="5">
+    </span>
+    <span itemprop="author" itemscope itemtype="http://schema.org/Person" >
+        <meta itemprop="name" content="Mr. Markabi">
+    </span>
+</span>
+
+<meta property="og:url" content="http://rigmodels.com/model.php?view=Crash_Bandicoot_3d_model__MY9VPWSSPFEMSAX5CE4QCGXL3" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Crash Bandicoot</b> 3D Model" />
+<meta property="og:image" content="http://rigmodels.com/3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash-Bandicoot.jpg" />
+
+<tr><td colspan="2" style="background-color: #f9f9cc; display: none;">
+<a href="3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash Bandicoot-2.jpg"><img src="3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Thumb_Crash Bandicoot-2.jpg" alt="Crash Bandicoot 3d model" title="Crash Bandicoot 3D Model"></img></a>
+<br>
+</td>
+</tr>
+
+<tr><td colspan="2">
+
+
+</td></tr>
+
+
+    
+<tr id="AdsenseTR" style="margin:0px; padding:0px;"><td colspan="2" style="background-color: #ADD8E6; padding: 0px; margin:0px; width:480px; height:320px;" height="320">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9438898752438795" crossorigin="anonymous"></script>
+<div align="center" style="position: relative; width: 100%; height: 320px; display:inline-block; margin: 0px; padding: 0px;">
+<!-- Model Mobile 480x320 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:100%;height:320px"
+     data-ad-client="ca-pub-9438898752438795"
+     data-ad-slot="3395564964"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</td></tr>
+
+<tr><td colspan="2" style="background-color: #f9f9cc; padding: 10px; border-right: 4px solid #215968; border-left: 1px solid #215968;" id="scrollto1">
+<b>Model's Description:</b>
+<br>
+
+
+
+Crash Bandicoot 3D Model, Fully textured with UV Mapping and materials.
+<br>
+Download 
+Crash Bandicoot in various files formats such as Wavefront Object format, Autodesk FBX, DirectX 9.0, Stereo Lithography and HTML5 JSON format.
+<br>
+<span itemprop="description">Crash Bandicoot 3D Model is ready to download for free
+ with 1 Texture files attached, this model contains 1550 polygons and 1233 vertices.</span><br>
+Model's rating is <span itemtype="http://schema.org/AggregateRating" itemscope itemprop="aggregateRating">(<span itemprop="ratingValue">4.5</span>) based on <span itemprop="ratingCount">93</span> Votes.</span>
+<br>Model is classified as <b>Human/Character</b>, standing in ( <b>T</b> ) Pose, ready to Rig and Animate automatically by our system.
+<meta itemprop="image" content="http://rigmodels.com/3dmodels/MY9VPWSSPFEMSAX5CE4QCGXL3/Prev_Crash-Bandicoot.jpg">
+
+<br>
+
+
+</td></tr>
+
+<tr style="background-color: lightgreen;"><td colspan="2" style="border: 3px dashed #00cc00; border-style:dashed none none none;">
+<font color='green' size='7'> &nbsp; <b>Download :</b> &nbsp; </font> <font color='grey'>(17,791 Hits)</font>
+</td></tr>
+
+
+<tr style="background-color: lightgreen;"><td colspan="2" style="border: 3px dashed #00cc00; border-style:none none dashed none;">
+<center>
+
+<input type="submit" id="getlinkObj" value="[.OBJ]   (Wavefront Object Format)" class="submit2" style="font-size: 18px; width: 400px; height: 80px; text-align: left;" onclick="ExportModel('MY9VPWSSPFEMSAX5CE4QCGXL3', 'Obj', '1', '1');" /> <br>
+<div id="MoreFormatsBox" style="display: none;">
+<input type="submit" id="getlinkFbxb" value="[.FBX]   (Filmbox Binary Format)" class="submit2" style="font-size: 18px; width: 400px; height: 60px; text-align: left;" onclick="document.getElementById('PreviewFrame').style.display='block'; document.getElementById('PreviewFrame').src='3d_Export_FBX.php?view=MY9VPWSSPFEMSAX5CE4QCGXL3&format=fbx&mobile=1&center=1&scale=100'; $('html, body').animate({scrollTop: $('#GoToResultBox').offset().top}, 2000); document.getElementById('PreviewImg').style.display='none';TryToKeepAds();" /> <br>
+<input type="submit" id="getlinkDae" value="[.DAE]   (Collada DAE Format)" class="submit2" style="font-size: 18px; width: 400px; height: 60px; text-align: left;" onclick="document.getElementById('PreviewFrame').style.display='block'; document.getElementById('PreviewFrame').src='3d_Export.php?view=MY9VPWSSPFEMSAX5CE4QCGXL3&format=dae&mobile=1&center=1&scale=100'; $('html, body').animate({scrollTop: $('#GoToResultBox').offset().top}, 2000); document.getElementById('PreviewImg').style.display='none';TryToKeepAds();" /> <br>
+<input type="submit" id="getlinkGlt" value="[.GLTF]  (GLTF Khronos Format)" class="submit2" style="font-size: 18px; width: 400px; height: 60px; text-align: left;" onclick="document.getElementById('PreviewFrame').style.display='block'; document.getElementById('PreviewFrame').src='3d_Export.php?view=MY9VPWSSPFEMSAX5CE4QCGXL3&format=glt&mobile=1&center=1&scale=100'; $('html, body').animate({scrollTop: $('#GoToResultBox').offset().top}, 2000); document.getElementById('PreviewImg').style.display='none';TryToKeepAds();" /> <br>
+<input type="submit" id="getlinkGlt" value="[.GLB]   (GLB Khronos Format)" class="submit2" style="font-size: 18px; width: 400px; height: 60px; text-align: left;" onclick="document.getElementById('PreviewFrame').style.display='block'; document.getElementById('PreviewFrame').src='3d_Export.php?view=MY9VPWSSPFEMSAX5CE4QCGXL3&format=glb&mobile=1&center=1&scale=100'; $('html, body').animate({scrollTop: $('#GoToResultBox').offset().top}, 2000); document.getElementById('PreviewImg').style.display='none';TryToKeepAds();" /> <br>
+</div>
+<input type="submit" id="DownMoreFormats" value="More Formats ..." class="submit2" style="width: 400px; border-radius: 0px; background: #DAF7A6; border-style: dotted; color:#14662C" onclick="document.getElementById('DownMoreFormats').style.display='none'; document.getElementById('MoreFormatsBox').style.display='block';" />
+
+<br><br>
+
+
+
+</center>
+</td>
+</tr>
+
+
+
+
+<tr><td colspan="2">
+</td></tr>
+
+</table>
+</div>
+
+<br>
+
+</center>
+</td>
+</tr></table>
+
+<div id="download-panel" style="width: 100%; height: 100%; background-color: rgb(0,0,0); background-color: rgba(0,0,0,0.6); border-width: 0px; z-index:1; position: fixed; left: 0px; top: 0px; display: none;" onclick="setTimeout(function(){document.getElementById('download-panel').style.display = 'none';},500)" >
+<div style="margin: 8% auto; padding: 20px; width: 430px; height: 280px; background-color: #fff; border: 5px solid green; border-radius: 25px;">
+    <button type="submit" class="submit2" style="width: 300px; height: 90px; text-align: center; font-size:12px;" onclick="GenerateExportLink();"><font size='5'>Free Download</font><br><br>Display Ads to Get Link</button>
+<br><br><font size='4' color='grey'> - OR - </font><br><br>
+<a href="premium.php">
+    <button type="submit" class="submit2" style="width: 300px; height: 120px; text-align: center; font-size:12px;"><font size='5'>Become Premium</font><br><br>- Unlimited Downloads<br>- Instant Downloads<br>- Remove Ads</button>
+</a>
+</div>
+</div>
+
+
+<script type="text/javascript">
+
+
+var ClickedFormat = "Obj";
+var ClickedSetting1 = "1";
+var ClickedSetting2 = "100";
+var DownloadProgress = 0;
+var DownloadProgressLayer = 1;
+var D
+var NowDownloading = 0;
+var DownloadPTimer;
+var DownloadButtonSec = 9;
+var result1 = "";
+function ProgressDownloadBar() {
+    var iButtonID = 'getlink' + ClickedFormat;
+    if(DownloadProgress < 100) {
+        DownloadProgress = DownloadProgress + 5;
+        if(DownloadProgressLayer == 1) {
+            document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #DAF7A6 "+DownloadProgress+"%, #ccc "+DownloadProgress+"%)";
+        } else if(DownloadProgressLayer == 2) {
+            document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #FFC300 "+DownloadProgress+"%, #DAF7A6 "+DownloadProgress+"%)";
+        } else if(DownloadProgressLayer == 3) {
+            document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #FF5733 "+DownloadProgress+"%, #FFC300 "+DownloadProgress+"%)";
+        } else if(DownloadProgressLayer == 4) {
+            document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #C70039 "+DownloadProgress+"%, #FF5733 "+DownloadProgress+"%)";
+        } else if(DownloadProgressLayer == 5) {
+            document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #900C3F "+DownloadProgress+"%, #C70039 "+DownloadProgress+"%)";
+        }
+    } else {
+        document.getElementById(iButtonID).value = "Still Working ... Please Wait ...";
+        DownloadProgress = 0;
+        DownloadProgressLayer++;
+        //clearInterval(DownloadPTimer);
+    }
+}
+function PrintThisModel() {
+    var iButtonID = 'getlinkStl2';
+	var OldText = document.getElementById(iButtonID).value;
+	document.getElementById(iButtonID).disabled = true;
+	document.getElementById(iButtonID).value = "Please wait.. Preparing...";
+	$.ajax({
+        	type: "POST", url: "exporter/Stl.php", cache: false,
+        	data: "hash=MY9VPWSSPFEMSAX5CE4QCGXL3&source=&ExpSetting1=0",
+        	success: function(resul){
+        	if(resul == "error-login"){
+        	alert("please Signup to print all models for Free!");
+        	modalReg.style.display = 'block'; // ask to Register.
+        	} else if (resul == "error-premium"){
+        	alert("You have reached free daily limit. Please donate to get Premium account with Unlimited downloads.");
+        	window.location.href = "premium.php";
+        	} else if (resul!="Error") {
+        	document.getElementById("invisibleframe").src = 'https://rigmodels.com/' + resul + '?rand=' + Math.floor(Math.random() * 100);
+        	} else {
+        	alert("Error. Something went wrong.");
+        	}
+        	document.getElementById(iButtonID).disabled = false;
+        	document.getElementById(iButtonID).value = OldText;
+        	}
+    	});
+} 
+        var AdvertPopupped = 1;
+    function ExportModel(ModelHash, Format, CenterOfM, ScaleOfM){
+    if(NowDownloading == 1) {
+        alert('Please wait until preparing the download complete.');
+    } else {
+        if(AdvertPopupped == 0) {
+                window.open("https://3dripper.com/library/");
+                AdvertPopupped = 1;
+        }
+    TryToKeepAds();
+    NowDownloading = 1;
+    ClickedFormat = Format;
+	var iButtonID = 'getlink' + Format;
+	var ExporterLink = "exporter/" + Format + ".php";
+	var OldText = document.getElementById(iButtonID).value;
+	document.getElementById(iButtonID).disabled = true;
+	document.getElementById(iButtonID).value = "Please wait.. Preparing " + Format.replace("Anim", "") + " Model..";
+	DownloadProgress = 10; DownloadProgressLayer = 1;
+	document.getElementById(iButtonID).style.backgroundImage = "linear-gradient(to right, #DAF7A6 10%, #ccc 10%)";
+	    DownloadPTimer = setInterval(function() {
+	        ProgressDownloadBar();
+	    }, 500);
+	$.ajax({
+        	type: "POST", url: ExporterLink, cache: false,
+        	data: "hash="+ModelHash+"&source=&ExpSetting1="+CenterOfM+"&ExpSetting2="+ScaleOfM,
+        	success: function(resul){
+        	NowDownloading = 0;
+        	if(resul == "error-login"){
+        	document.getElementById(iButtonID).disabled = false;
+        	document.getElementById(iButtonID).value = OldText;
+        	alert("please Signup to download all models for Free!");
+        	modalReg.style.display = 'block'; // ask to Register.
+        	} else if (resul == "error-premium"){
+        	document.getElementById(iButtonID).disabled = false;
+        	document.getElementById(iButtonID).value = OldText;
+        	alert("You have reached free download limit. Please donate to get Premium account with Unlimited downloads.");
+        	window.location.href = "premium.php";
+        	} else if (resul!="Error") {
+        	    result1 = resul;
+        	            	    DownloadButtonSec=9;
+        	                    var timer1=setInterval(function(){
+                    if(DownloadButtonSec >= 1) {
+                      document.getElementById(iButtonID).value = "Download starts after " + DownloadButtonSec.toString() + " sec.";
+                    }
+                    if(DownloadButtonSec == 0) {
+                        document.getElementById(iButtonID).disabled = false;
+                        document.getElementById(iButtonID).value = OldText;
+                        document.getElementById("invisibleframe").src = result1 + '?rand=' + Math.floor(Math.random() * 100);
+                        clearInterval(timer1);
+                    }
+                    DownloadButtonSec--;
+                    },1000);
+            	
+        	} else {
+        	document.getElementById(iButtonID).disabled = false;
+        	document.getElementById(iButtonID).value = OldText;
+        	alert("Error. Something went wrong, Please try a different format.");
+        	}
+        	document.getElementById(iButtonID).style.backgroundImage = "";
+        	clearInterval(DownloadPTimer);
+        	},
+        	error: function(resul){
+        	    document.getElementById(iButtonID).value = "Server Error. Try (OBJ) Format.";
+        	    document.getElementById(iButtonID).style.backgroundImage = "";
+        	    clearInterval(DownloadPTimer);
+        	    document.getElementById(iButtonID).style.backgroundImage = "";
+        	    document.getElementById(iButtonID).style.background = "#000";
+        	}
+    	});
+    }
+}
+function TryToKeepAds() {
+    try {
+        CloseAdBanner = 9;
+        document.getElementById('CloseAdCap').innerHTML='Close (X)';
+        document.getElementById('AdsenseBanner1').style.display='block';
+        PageLoadSec = 0;
+    } catch (error) {
+        //console.error(error);
+    }
+}
+</script>
+
+
+
+
+
+<div style="clear: both;">&nbsp;</div>
+
+
+<br>
+
+
+            <div style="background-color: #215968; color:#eee; height:60px; line-height: 35px; width: 100%; min-width: 480px;">
+        <center>
+    Copyright © 2017-2024 RigModels. All rights reserved.
+    <br>
+    <img src="img/contact.png" alt="Contact Info">
+    </center>
+    <br><br><br><br><br><br><br><br><br>    </div>
+
+</center>
+
+
+</body>
+</html>

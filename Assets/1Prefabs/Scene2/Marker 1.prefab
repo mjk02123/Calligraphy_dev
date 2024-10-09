@@ -53,6 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _tip: {fileID: 6375579967402843269}
   _penSize: 20
+  _drawSound: {fileID: 0}
 --- !u!65 &6375579966244460042
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -100,7 +101,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 6
   m_DistanceCalculationMode: 1
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}

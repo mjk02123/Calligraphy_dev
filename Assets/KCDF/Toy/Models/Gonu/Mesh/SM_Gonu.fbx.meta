@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 0da988961d812b745881563ed37e8d72
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board16
+    second: {fileID: 2100000, guid: f45eacabd5538e64cbcea44fd75031d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board17
+    second: {fileID: 2100000, guid: 3278daacc5884784e80e42f0ef6dd149, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board18
+    second: {fileID: 2100000, guid: 5891bf236d7f5b14cbc480ff4276f4ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board19
+    second: {fileID: 2100000, guid: 2d569a728a206224c98a376240483a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board20
+    second: {fileID: 2100000, guid: d2a9356e68dbaa8499507c2161351ac8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board21
+    second: {fileID: 2100000, guid: 56d7f05f932cffe43bff4e55617d2464, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board22
+    second: {fileID: 2100000, guid: e315be69262ac3f42905981345b19e20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board23
+    second: {fileID: 2100000, guid: 4145af6096fb8b045983a79ff31f40a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board24
+    second: {fileID: 2100000, guid: 6bf9f5baf4f2863459fb872b0486507d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board25
+    second: {fileID: 2100000, guid: 8cf6cefa56acd424986585660f05ddc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board26
+    second: {fileID: 2100000, guid: 9ab003c5e652852418ea2c18862820ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board27
+    second: {fileID: 2100000, guid: 72f0da2522e94b34f83872086c07f309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board28
+    second: {fileID: 2100000, guid: 47ea9a804f67b6844921087634efbd03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board29
+    second: {fileID: 2100000, guid: badf501fc7c9ae244b52b3b807c65621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Board30
+    second: {fileID: 2100000, guid: adbe504523ad23b46a09dfc89116389a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bounding_Ring
+    second: {fileID: 2100000, guid: 9215ac306fc26de4b8d84418d531f893, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Game_piece_Black
+    second: {fileID: 2100000, guid: 98cfcfd0ee230d94fba35b50008ade70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Game_piece_White
+    second: {fileID: 2100000, guid: 2572f46993cca384283904d40f526d49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Manual_
+    second: {fileID: 2100000, guid: f0ad10cfeba9e4548944c877075c799c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign1
+    second: {fileID: 2100000, guid: 0c84e39f042fe7b4d94a9ca43bb39ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign2
+    second: {fileID: 2100000, guid: dd966779ab185ed48a98a41f1fcf3034, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board10_BaseColor
+    second: {fileID: 2800000, guid: 43ff336dd8276aa43913d5768e61d511, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board11_BaseColor
+    second: {fileID: 2800000, guid: 07b97a6308af0ed4397e333eb4c94a02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board12_BaseColor
+    second: {fileID: 2800000, guid: 29fa4ea99f5479c43a45f23b9a342beb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board13_BaseColor
+    second: {fileID: 2800000, guid: c2cfa9d118fc68c40bbfd37aa77fdd6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board14_BaseColor
+    second: {fileID: 2800000, guid: 7d7fd5351f356eb478c82272b3d62683, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board15_BaseColor
+    second: {fileID: 2800000, guid: 70252dde9ef62b7499f0900c804cd178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board1_BaseColor
+    second: {fileID: 2800000, guid: d1055e1c657dae7428dbfd38477f1400, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board2_BaseColor
+    second: {fileID: 2800000, guid: e889f3de963023b4dad5abb34d1316b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board3_BaseColor
+    second: {fileID: 2800000, guid: 7cc3ce0d223396744bb36bf491d8874b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board4_BaseColor
+    second: {fileID: 2800000, guid: 25381f53ed81949449b89b12a82e0eee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board5_BaseColor
+    second: {fileID: 2800000, guid: f5585e7fb733ff4488f3578fae301c44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board6_BaseColor
+    second: {fileID: 2800000, guid: 26edd2d0d9db7a948805008d7bea2445, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board7_BaseColor
+    second: {fileID: 2800000, guid: 648b13cdeb4b1484fa2965471829e733, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board8_BaseColor
+    second: {fileID: 2800000, guid: 139a1862a05d7fb489322d4aca69ac8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board9_BaseColor
+    second: {fileID: 2800000, guid: c0c34a4153fb6504782dcc32f578515d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Board_Normal
+    second: {fileID: 2800000, guid: 0d186a996906bec4aae8ad39590ff027, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bounding_ring_BaseColor
+    second: {fileID: 2800000, guid: 081a7b6833b95d24f87b67500816751d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bounding_ring_Normal
+    second: {fileID: 2800000, guid: 299a8e04866a4b446a02bfa22125d69b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gonu_Black_BaseColor
+    second: {fileID: 2800000, guid: ed3f86a6c60ad6d4ab48eca8e272d14f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gonu_Black_Normal
+    second: {fileID: 2800000, guid: 4957f1b70b8579b4da214fc1c096f14a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gonu_White_BaseColor
+    second: {fileID: 2800000, guid: ae19fb75fb796a845bb53668a6248f19, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Gonu_White_Normal
+    second: {fileID: 2800000, guid: 79e2197a49057454fb3b59455712ce83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Manual_BaseColor
+    second: {fileID: 2800000, guid: 3e1dc955b81de164fbecdd4010aff7c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sign_1_BaseColor
+    second: {fileID: 2800000, guid: b78dd6afdefe1a846a6a469977963c39, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sign_2_BaseColor
+    second: {fileID: 2800000, guid: bd8a2069b142fb54a9bb1ec3d08a4f1c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 340
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

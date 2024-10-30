@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 6809f51299ce46b48826d8ac5d87a5d2
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.001
+    second: {fileID: 2100000, guid: 5d408625db4709445bea0fc1f8cc0031, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.002
+    second: {fileID: 2100000, guid: fdf1376e1c3e8054e9a7145ae0caa15b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.003
+    second: {fileID: 2100000, guid: 7c4843b0aacc0aa438e6fbe669ab30e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.004
+    second: {fileID: 2100000, guid: 7fbb2b806f606d64aadb1f58416b8906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.005
+    second: {fileID: 2100000, guid: 340ecbf01a3b37547b9db4da6a3243a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.006
+    second: {fileID: 2100000, guid: ec4374bb38376364a98d2a44221e7d41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.007
+    second: {fileID: 2100000, guid: 715147a1fd1ce9642ac6c68478e9e8e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.008
+    second: {fileID: 2100000, guid: 01525022f6a94ef46879f67930a89efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.009
+    second: {fileID: 2100000, guid: e5534e44800633b4980c830a58986e01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.010
+    second: {fileID: 2100000, guid: 0bc100cc999a21045b6c8ee0cbb345fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.011
+    second: {fileID: 2100000, guid: d99458fde22b03e49be7ab7f90783971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.012
+    second: {fileID: 2100000, guid: c7362c68dc48a9e45996acbc71b8a1f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.013
+    second: {fileID: 2100000, guid: 11f3a00b11b9e7044b2cdd5c1e45be48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.014
+    second: {fileID: 2100000, guid: 61518492dacfb014f829636a88469715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.015
+    second: {fileID: 2100000, guid: ae88d682f338cbe41abe4a6c2826ab6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.016
+    second: {fileID: 2100000, guid: 104fd2cb95101c74db5acec5da7e4b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.017
+    second: {fileID: 2100000, guid: 450041d2530296748b78bbdf1fdcc30f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.018
+    second: {fileID: 2100000, guid: 21c5b13d8dad412468d9a62f69c6bbdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.019
+    second: {fileID: 2100000, guid: 1c5877139dd3fa9448011fb6db83f3b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.020
+    second: {fileID: 2100000, guid: d8d94f48f0b056643a83a33c3a5ad9e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.021
+    second: {fileID: 2100000, guid: 6d33f98b359e33640897a307d5a1c351, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.022
+    second: {fileID: 2100000, guid: eb572e094efaf7345b04e20461418133, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.023
+    second: {fileID: 2100000, guid: 4ba3217be732ee748b748eecddd9ae66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.024
+    second: {fileID: 2100000, guid: c8f8399f6e02f394190e85949c6e454a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.025
+    second: {fileID: 2100000, guid: c9c96f2cbf5f91b458d430a33ca7180d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.026
+    second: {fileID: 2100000, guid: ea0c27f8e90d613458de0f1a4e9cff87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.027
+    second: {fileID: 2100000, guid: e7412dd07703ae34089c91c1a230fa7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.028
+    second: {fileID: 2100000, guid: 40fa88f4a2dd9b84cb888ccbbc1b1df0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.029
+    second: {fileID: 2100000, guid: 3f00066fe3750e946ad97611a6b6cb1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.030
+    second: {fileID: 2100000, guid: fbc1f5cd6144421449b69c5d760494c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hwagatu_Card_case
+    second: {fileID: 2100000, guid: b030e4ab26d24fb4c8de38dd844a7dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.001
+    second: {fileID: 2100000, guid: a21ce580f9cd5f34697060beb22fd5fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.002
+    second: {fileID: 2100000, guid: 46b2fe51c66ff814381263189337311e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.003
+    second: {fileID: 2100000, guid: db518325e8e8d60488f157c81364a737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.004
+    second: {fileID: 2100000, guid: abc462ee0195ad24e9287f43fae386cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.005
+    second: {fileID: 2100000, guid: d35bbae52c8da0d43818a5f815688e02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.006
+    second: {fileID: 2100000, guid: 41a4194819237ba4e9c49e5cf5899a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.007
+    second: {fileID: 2100000, guid: 097e403d637020e47bfb3bff575e29ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.008
+    second: {fileID: 2100000, guid: 2f31d73745d78be4fbdc60d3b2a58d0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.009
+    second: {fileID: 2100000, guid: 94140c977cdea2941ac439deb2b14ef2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.010
+    second: {fileID: 2100000, guid: be95a09d144f1ac4aae638133ce9f2d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.011
+    second: {fileID: 2100000, guid: 9a275716a8731d546a3e1504bb2851a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.012
+    second: {fileID: 2100000, guid: ec1f1d542ffb9e340b94b735ef32c514, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.013
+    second: {fileID: 2100000, guid: 2a6da6d8ccaefff439337923ac00a748, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.014
+    second: {fileID: 2100000, guid: b6a5255ecbcf0854ca1b289743fcda58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.015
+    second: {fileID: 2100000, guid: 5158a3fd15eb7a647955f5432d152d59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.016
+    second: {fileID: 2100000, guid: 73223a5bc75bbfd46b2e5a43254550db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.017
+    second: {fileID: 2100000, guid: c4c417388de8dec4f91d4fa6820c709f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.018
+    second: {fileID: 2100000, guid: d80e598d4aec796448185fefa394bbef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.019
+    second: {fileID: 2100000, guid: b5055cf1b029d0d468f2597e4f986976, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.020
+    second: {fileID: 2100000, guid: 1ebc6116554e17741bd53b64550e040b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.021
+    second: {fileID: 2100000, guid: 9530f217fa1c4eb47b9f60b5bf0caed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.022
+    second: {fileID: 2100000, guid: f46e2696b8eeee949a1cfc11c8a71ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.023
+    second: {fileID: 2100000, guid: 701bcf3c0e40e6640a22338d5e0502b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.024
+    second: {fileID: 2100000, guid: 1904c441f8be97a4dadc64c3d4ee547b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.025
+    second: {fileID: 2100000, guid: c88e5a536fe4d76418460640afca2566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.026
+    second: {fileID: 2100000, guid: cdd232d15313a4b4988d9c602108eb67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.027
+    second: {fileID: 2100000, guid: 9f45666e8bccb8942b3f67cb01d39bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.028
+    second: {fileID: 2100000, guid: fd355ed9bdb86fe41991d564cd97b37a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.029
+    second: {fileID: 2100000, guid: f1260389ec858ce499bd882fa2c6d3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Read_Card.030
+    second: {fileID: 2100000, guid: 13fef78653e8c6f43b9f63c29e4e7bf8, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_10_BaseColor
+    second: {fileID: 2800000, guid: 56d6e4dd2c37e47489a0a1ed7733c86a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_11_BaseColor
+    second: {fileID: 2800000, guid: 2fb76f63fd1bad64aafb402b11c75ab8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_12_BaseColor
+    second: {fileID: 2800000, guid: 009cb83ed690de940a3839592b30bf5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_13_BaseColor
+    second: {fileID: 2800000, guid: e7c3a4358edf90d4cbb73feb9243d097, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_14_BaseColor
+    second: {fileID: 2800000, guid: 85f147f93c9015647b6eb853fcd0a515, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_15_BaseColor
+    second: {fileID: 2800000, guid: 6f27f8424ec729d4d90e5642a9d4d628, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_16_BaseColor
+    second: {fileID: 2800000, guid: de86dece71f297d48845a87c1dda6d8e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_17_BaseColor
+    second: {fileID: 2800000, guid: dbccd15ff713da642906da59b8392d05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_18_BaseColor
+    second: {fileID: 2800000, guid: 86d3b524a333d43478dace777bcc5bfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_19_BaseColor
+    second: {fileID: 2800000, guid: d066959cf85bb8a4fb16fe61155149f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_1_BaseColor
+    second: {fileID: 2800000, guid: 2ef63e473d5bbd348852aaed762ff8fa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_20_BaseColor
+    second: {fileID: 2800000, guid: 83c1f044c24372545ae0c4cea269f94d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_21_BaseColor
+    second: {fileID: 2800000, guid: 7608af81e7764434ea022d84d734399b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_22_BaseColor
+    second: {fileID: 2800000, guid: 89669848b4a583d438aa8ce360cf15d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_23_BaseColor
+    second: {fileID: 2800000, guid: 38b0e7a3c8d5e12489491472e6de5a2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_24_BaseColor
+    second: {fileID: 2800000, guid: 26a64a24d6ceb3c4dbfefb9ab3cf241b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_25_BaseColor
+    second: {fileID: 2800000, guid: d887d11d4e467b848b998dbb1fc52769, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_26_BaseColor
+    second: {fileID: 2800000, guid: c0e7b73ba0df2694e9b6333d135e9d70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_27_BaseColor
+    second: {fileID: 2800000, guid: d09e29905e9bdee4d9fcb388e2261a2c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_28_BaseColor
+    second: {fileID: 2800000, guid: 4fc54738859a34a40bcf37e8b91b3560, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_29_BaseColor
+    second: {fileID: 2800000, guid: 5edea689e2d06a44280cb2661305966a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_2_BaseColor
+    second: {fileID: 2800000, guid: b9c3b273e4cab7249b2b932d7d8daeb8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_30_BaseColor
+    second: {fileID: 2800000, guid: c89013f5db47b1c418d55223bc79b9cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_3_BaseColor
+    second: {fileID: 2800000, guid: 919ce9a5af10d0b408e1644988621d52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_4_BaseColor
+    second: {fileID: 2800000, guid: 448e19aaaed3d8e4e80f513859ae45e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_5_BaseColor
+    second: {fileID: 2800000, guid: bf25307605a7b1c45b4a792326f7b95b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_6_BaseColor
+    second: {fileID: 2800000, guid: f0c33cfb8303cf24f8487b14c0f04687, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_7_BaseColor
+    second: {fileID: 2800000, guid: 89102f6b1fc9c7b4bbd903b0f3d6987e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_8_BaseColor
+    second: {fileID: 2800000, guid: 6fc70a74266141d40abaa85f1baa247b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_9_BaseColor
+    second: {fileID: 2800000, guid: 46eb77933d2e9b34697cc7caed22df5c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_read_Normal
+    second: {fileID: 2800000, guid: abeb41f89dce4e24d8e24daa042547e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_read_Roughness
+    second: {fileID: 2800000, guid: ad42c7243f37f104ea42fc3e1064cc34, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_spread_Normal
+    second: {fileID: 2800000, guid: e29fecc220671ec48be6e95f7499bedb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Card_spread_Roughness
+    second: {fileID: 2800000, guid: 989cce769180fce4a994c8d2f44782ed, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_BaseColor
+    second: {fileID: 2800000, guid: 2927775c09c4abf46adb9f03a4db2b5f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_Normal
+    second: {fileID: 2800000, guid: b7da7bcce45e6b54580ca111fe557d55, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_Roughness
+    second: {fileID: 2800000, guid: 0603f9bb934993447ae795054b122233, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_10_BaseColor
+    second: {fileID: 2800000, guid: 9d0930289ef54464d9e8b4d9689ee952, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_11_BaseColor
+    second: {fileID: 2800000, guid: 38f9c2289ff264747bb5996b6be49ad3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_12_BaseColor
+    second: {fileID: 2800000, guid: 5342aed4826059f4a84e5f6edeb2f589, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_13_BaseColor
+    second: {fileID: 2800000, guid: f19863105321ac64fa084da6c475c045, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_14_BaseColor
+    second: {fileID: 2800000, guid: 0e14ec5bff2e13c49bbe775720b30d53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_15_BaseColor
+    second: {fileID: 2800000, guid: 7ccb695c4a165204288c986a9c8c2d96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_16_BaseColor
+    second: {fileID: 2800000, guid: 8df0979bbbbabf6438d444247f7dce58, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_17_BaseColor
+    second: {fileID: 2800000, guid: 079740bdf92954f41b30604b136fb45c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_18_BaseColor
+    second: {fileID: 2800000, guid: a56f9f518f2b502429505fa920cfbb70, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_19_BaseColor
+    second: {fileID: 2800000, guid: 67e6398d49c1b0b43abbae25f5fb5a1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_1_BaseColor
+    second: {fileID: 2800000, guid: dcf31f7349ed1074fbad1c9a5f51027e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_20_BaseColor
+    second: {fileID: 2800000, guid: a71dcfecc289c0d44af0b00fcd0f8191, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_21_BaseColor
+    second: {fileID: 2800000, guid: 7c016a22ff8eeab4e869db7620ff63f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_22_BaseColor
+    second: {fileID: 2800000, guid: a219f6b4832a06e4db0620d512eea7b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_23_BaseColor
+    second: {fileID: 2800000, guid: 50ed6c9d8ccfab64b9f807d8a46937f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_24_BaseColor
+    second: {fileID: 2800000, guid: 849c0652f391afd43b8dfdf685327f4b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_25_BaseColor
+    second: {fileID: 2800000, guid: b4b393fdeace97747bde99b293558a3a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_26_BaseColor
+    second: {fileID: 2800000, guid: 67b74f7efaf8f0d42a8ea1beaecc270c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_27_BaseColor
+    second: {fileID: 2800000, guid: 2b9be5e58792e0241b36a7087d953168, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_28_BaseColor
+    second: {fileID: 2800000, guid: b3847f211f10981478d3a5a4d18e29de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_29_BaseColor
+    second: {fileID: 2800000, guid: 04c8cd77afa626b4da4ea700bac22134, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_2_BaseColor
+    second: {fileID: 2800000, guid: ab4f29ccd3633ba4ba0dd7063ac3792f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_30_BaseColor
+    second: {fileID: 2800000, guid: ff7cfc88a12b3274eb6cf752036f54bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_3_BaseColor
+    second: {fileID: 2800000, guid: f75d7fded1234ec4caaa1bb4fb9e432e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_4_BaseColor
+    second: {fileID: 2800000, guid: e340b931b8bbfad41947e5579e060263, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_5_BaseColor
+    second: {fileID: 2800000, guid: 6bb4418786007054286bdcc3ab00bb6c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_6_BaseColor
+    second: {fileID: 2800000, guid: 644f5850da4984b4a9e291c3d8a9db3b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_7_BaseColor
+    second: {fileID: 2800000, guid: db5c9f4d6a78ad94d9b43c232f0f1500, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_8_BaseColor
+    second: {fileID: 2800000, guid: 6f38865ff10f842429f4befe1f3957df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Read_Card_9_BaseColor
+    second: {fileID: 2800000, guid: c5bd5f3d55e075249b3ef507f9bacade, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

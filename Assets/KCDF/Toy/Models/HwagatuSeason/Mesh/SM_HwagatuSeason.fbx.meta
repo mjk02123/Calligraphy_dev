@@ -1,0 +1,402 @@
+fileFormatVersion: 2
+guid: 2c98bd0bf8d286a4382fb164e6abbdf4
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.001
+    second: {fileID: 2100000, guid: b6d72c85f8470a4469f32f0b27d79002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.002
+    second: {fileID: 2100000, guid: bed113acb36bf684fb633fd8aed87c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.003
+    second: {fileID: 2100000, guid: 49875e8c445c77646a6fff22c70665ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.004
+    second: {fileID: 2100000, guid: b994520408377414ea6970e8777d24de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.005
+    second: {fileID: 2100000, guid: 1df8d91a4063c15458430b7f0a24ef8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.006
+    second: {fileID: 2100000, guid: dd76eab0dbab4814da24bb9696e4f050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.007
+    second: {fileID: 2100000, guid: c93bd82531920e840ab0fd2be38cec39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.008
+    second: {fileID: 2100000, guid: 0dab419c27f631546862af33c5f5c244, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.009
+    second: {fileID: 2100000, guid: 14d99a7847cc08943aab40d9ff0feb61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.010
+    second: {fileID: 2100000, guid: 4a84224ccd4b9fb478660587d8fc2145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.011
+    second: {fileID: 2100000, guid: e74805a4dfd62ea43bccabb2884257cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.012
+    second: {fileID: 2100000, guid: 17ade2ed368525c43b5cd88913ad8caf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.013
+    second: {fileID: 2100000, guid: e23b759860b2f73479472bcbf8e082eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.014
+    second: {fileID: 2100000, guid: 765a9990cc71f2440b0d56cfafd52d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.015
+    second: {fileID: 2100000, guid: cc70a81dca0c8974a936acc8f60a8344, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.016
+    second: {fileID: 2100000, guid: 4491fbe49452ac54886376e7283826bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.017
+    second: {fileID: 2100000, guid: 02bb84ac794b63740a06c3392d7d17f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.018
+    second: {fileID: 2100000, guid: 492a62ad4ae8d09439576c538e43e9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.019
+    second: {fileID: 2100000, guid: d79865b583b4c0c4f8f64dd2faacbcd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.020
+    second: {fileID: 2100000, guid: ea1dc46d02d6e644f89c5ac432e81bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.021
+    second: {fileID: 2100000, guid: 0e3cd14c3152eb2499c8b6e4c342183f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.022
+    second: {fileID: 2100000, guid: 7609f136bfdadb5478c3b1c75209953a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.023
+    second: {fileID: 2100000, guid: 080b9631ad1572e439b24803dadbbecb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Card.024
+    second: {fileID: 2100000, guid: cd04ad6cc831fd5498fc28a3ae32fec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hwagatu_Card_case_Season_ver
+    second: {fileID: 2100000, guid: 856e5cdba70db85498fb6de4c238dbce, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_Season.ver_BaseColor
+    second: {fileID: 2800000, guid: cdc1cd9e64330fc4cb7334039903493c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_Season.ver_Normal
+    second: {fileID: 2800000, guid: 03b5b2420fd18e94281e3f124f3734a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cardcase_Season.ver_Roughness
+    second: {fileID: 2800000, guid: b5f196b7783017f41ac212efe5bbc178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_10_BaseColor
+    second: {fileID: 2800000, guid: 6d13653c283137647a9aea894174ec28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_11_BaseColor
+    second: {fileID: 2800000, guid: af579d006f80b2b4a8bab1dccd9796ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_12_BaseColor
+    second: {fileID: 2800000, guid: fdd50521a89600745b27653482bc68e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_13_BaseColor
+    second: {fileID: 2800000, guid: a1ef1353cccad0a4aab6e74a31774e28, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_14_BaseColor
+    second: {fileID: 2800000, guid: 5e71a169b2daaea4f8b6eab414fe85be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_15_BaseColor
+    second: {fileID: 2800000, guid: 1665ae25b436a6347929c889945ffe71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_16_BaseColor
+    second: {fileID: 2800000, guid: eb25519285b12444192cd93804d4e9f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_17_BaseColor
+    second: {fileID: 2800000, guid: 33ae9227fbd9f104095023692046bc53, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_18_BaseColor
+    second: {fileID: 2800000, guid: fc49f5b7e98923e4ca018b5f1d53b8d9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_19_BaseColor
+    second: {fileID: 2800000, guid: f7134c6d64a91ed4bbd38413e208301d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_1_BaseColor
+    second: {fileID: 2800000, guid: fafa9214402a87542897e18077f4d042, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_20_BaseColor
+    second: {fileID: 2800000, guid: 743f056e6439d44458c73c0be0ce5e01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_21_BaseColor
+    second: {fileID: 2800000, guid: fe134d10447a83640a321b1464489be0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_22_BaseColor
+    second: {fileID: 2800000, guid: 4913aa35940559e42ac3ec8b92e9147f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_23_BaseColor
+    second: {fileID: 2800000, guid: ccc9b6ac114198f4c8ca339eff0a4734, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_24_BaseColor
+    second: {fileID: 2800000, guid: 101123d56341b00459fcc19bdf3d1634, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_2_BaseColor
+    second: {fileID: 2800000, guid: 373ad2695abcf0f4da5f78df7130af0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_3_BaseColor
+    second: {fileID: 2800000, guid: 3e11475439ce0a841b782523977ac3e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_4_BaseColor
+    second: {fileID: 2800000, guid: 4f513c11d702a254e8e894c70e648f1b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_5_BaseColor
+    second: {fileID: 2800000, guid: cbc02f0eb1b59194289c06bb248aa5b2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_6_BaseColor
+    second: {fileID: 2800000, guid: fa29a38da89a0ed40989e5460e8cfdba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_7_BaseColor
+    second: {fileID: 2800000, guid: bbae678615fc2894b8997fbae680c177, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_8_BaseColor
+    second: {fileID: 2800000, guid: a1a0403874d2f9146b5db4cac4d2906f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_9_BaseColor
+    second: {fileID: 2800000, guid: 8f322971dcd31ed418b3e34e8e3963db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_Normal
+    second: {fileID: 2800000, guid: e12d1ada381ec0b42be23e049ee21dc1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Season_Card_Roughness
+    second: {fileID: 2800000, guid: a4fa1ef2a1b345d4b8a96996cf2b5eb4, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 290
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
